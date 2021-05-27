@@ -5,7 +5,7 @@ Stable:
 * https://github.com/indigo-dc/udocker/blob/master/doc/installation_manual.md 
 
 Development for Python 3 and Python 2:
-* https://github.com/indigo-dc/udocker/blob/devel3/doc/installation_manual.md 
+* https://github.com/indigo-dc/udocker/blob/devel3/docs/installation_manual.md 
 
 Legacy for Python 2 only:
 * https://github.com/indigo-dc/udocker/blob/devel/doc/installation_manual.md 
